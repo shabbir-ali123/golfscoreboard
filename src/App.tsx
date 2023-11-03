@@ -45,7 +45,7 @@ function App() {
 
   return (
     <Routes>
-      <Route path="/" element={<ScoreBoard />} />
+      <Route path="/"  element={<ScoreBoard />} />
     </Routes>
   );
 }
